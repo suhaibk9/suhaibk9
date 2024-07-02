@@ -50,13 +50,6 @@ Experienced software developer with a strong focus on frontend technologies such
 
 ---
 
-### 🏆 Honors and Awards
-
-**Star Award**  
-Received Star Award for going above and beyond to accomplish project goals.
-
----
-
 ### 📫 Contact
 
 📍 Liverpool, UK  

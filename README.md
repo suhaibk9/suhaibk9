@@ -55,7 +55,3 @@ Experienced software developer with a strong focus on frontend technologies such
 📍 Liverpool, UK  
 ✉️ [suhaib0900@gmail.com](mailto:suhaib0900@gmail.com)  
 
----
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/suhaibk9/), explore my projects on [GitHub](https://github.com/suhaibk9/), or challenge me on [LeetCode](https://leetcode.com/suhaibk9/). Let's build something amazing together!
-

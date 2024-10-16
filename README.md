@@ -27,7 +27,7 @@
 - Node.js
 - REST API
 - Docker
-- Git
+- Fastify
 
 **DevOps:**
 - AWS

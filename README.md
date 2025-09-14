@@ -47,7 +47,7 @@
 ### 💼 Professional Experience
 
 **AI Frontend Developer** | Fletchers Solicitors | Manchester, UK  
-*June 2023 - Present*
+*June 2025 - Present*
 
 **Associate Software Developer** | Collins Aerospace | Bengaluru, India  
 *November 2021 - May 2023*

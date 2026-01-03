@@ -80,4 +80,5 @@ Experienced software developer with a strong focus on frontend technologies such
 ### 📫 Contact
 
 📍 Liverpool, UK  
-✉️ [suhaib0900@gmail.com](mailto:suhaib0900@gmail.com)
+✉️ [suhaib0900@gmail.com](mailto:suhaib0900@gmail.com)  
+🌐 [https://suhaibkhan.vercel.app/](https://suhaibkhan.vercel.app/)
